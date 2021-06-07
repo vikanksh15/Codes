@@ -21,6 +21,5 @@ int main()
     else{
         printf("You are in neither profit nor loss");
     }
-
     return 0;
 }
