@@ -5,8 +5,19 @@ int main()
     int a = 0;
     printf("Please enter the year: ");
     scanf("%d",&a);
-    if(a%4 == 0){
+    if(a%400 == 0){
         printf("%d is leap year .\n",a);
+    }
+    else if(a%100 == 0){
+        printf("%d is not a leap year.\n",a);
+        a = a+1;
+        while(a%4 != 0){
+            a += 1;
+        }
+        printf("Next leap year is %d.\n",a);
+    }
+    else if(a%4 == 0){
+        printf("%d is leap year.\n",a);
     }
     else{
         printf("%d is not a leap year.\n",a);
