@@ -1,10 +1,10 @@
 <h1>
   Data Management and Visualization
 </h1>
-    <p>
-        Tools for Data Visualization : <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-                                       <img src="https://github.com/velvet0thunder/Images/blob/main/Splunk_Icon.png" width="48" height="48"/>
-    </p>
+<h3> Tools for Data Visualization:
+    <img src="https://github.com/velvet0thunder/Images/blob/main/icon-tableau.png" width="48" height="48"/>
+    <img src="https://github.com/velvet0thunder/Images/blob/main/Splunk_Icon.png" width="50" height="50"/>
+</h3>
 
 <h2>
   Data Management <img src="https://github.com/velvet0thunder/Images/blob/main/Data%20management.jpg" alt="Data" width="30" height="30"/> 
